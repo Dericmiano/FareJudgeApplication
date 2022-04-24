@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FareJudgeApplication</string>
+    <string name="view_establisments">str</string>
+    <string name="about">An android application software that can ne
+        installed in android smart phones , the app helps the user to review the places he has
+        visited and keeps review of the experience he had on the place and rating
+    </string>
+    <string name="hint_search">search</string>
+    <string name="services">Services</string>
+    <string name="date">Date</string>
+    <string name="rating">Rating</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="enter_name_of_est">enter name of est</string>
+    <string name="type_of_establish">Type of establish</string>
+    <string name="food">food</string>
+    <string name="enter_type_food">enter type food</string>
+    <string name="location">location</string>
+    <string name="enter_location">enter location</string>
+    <string name="search">search</string>
+</resources>
